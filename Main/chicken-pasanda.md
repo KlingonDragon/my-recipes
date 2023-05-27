@@ -4,7 +4,7 @@
 
 Serves|Cooking Time
 :-:|:-:
-3|30m
+6|4 0m
 
 ## Ingredients
 Item|Quantity
@@ -22,6 +22,7 @@ Salt|1 tsp
 Sugar|1 tsp
 Ground Almonds|100g
 Desiccated Coconut|100g
+Milk|200ml
 Double Cream¹|300ml
 Oil|for non-stick
 
@@ -34,7 +35,7 @@ I use two pans for this recipe; A frying pan and a large stock pot. This lets me
     > The onion and chicken may cook at different rates, once each is complete, you can move it to the pot separately.
 0) Add the garlic, coriander, cumin, turmeric, cinnamon, paprika, chilli powder, salt, and sugar to the pot, stirring well to combine.
 0) Add the ground almonds and desiccated coconut to the pot and stir well to coat the chicken and onions.
-0) Pour in the cream and bring to a gentle simmer, stirring occasionally.
+0) Pour in the milk and cream.
 0) Simmer until the chicken is cooked through and the sauce has thickened.
 
 ## Notes
@@ -44,6 +45,7 @@ The original recipe created by Chat GPT used slightly different ingredients. I m
 - Chicken Strips
 - Garlic Puree
 - Desiccated Coconut
+- Milk
 
 **Removed**
 - Chicken Breasts, 4
