@@ -1,6 +1,10 @@
 # Chicken Pasanda
 **Source:** ChatGPT
-> Prompt: "write a creamy Pasanda recipe i can cook at home using supermarket ingredients using british terminology" 
+> Prompt: "write a creamy Pasanda recipe i can cook at home using supermarket ingredients using british terminology"
+
+Serves|Cooking Time
+:-:|:-:
+3|30m
 
 ## Ingredients
 Item|Quantity
@@ -21,21 +25,20 @@ Desiccated Coconut|100g
 Double Cream¹|300ml
 Oil|for non-stick
 
-¹ I don't use cream, I use Elmlea; Elmlea is a cream alternative made with buttermilk and vegetable oil.
+¹ I don't use cream; I use Elmlea; Elmlea is a cream alternative made with buttermilk and vegetable oil.
 
 ## Method
-I use 2 pans for this recipe. 1 frying pan and a large stock pot. It could all be done in one pan so long as it's large enough and has enough of a flat area to fry the initial ingredients.
-This also allows me to start on the sauce while the chicken and onions cook.
+I use two pans for this recipe; A frying pan and a large stock pot. This lets me start on the sauce while the chicken and onions cook. It could all be done in one pan so long as it's large enough and has enough flat area to fry the initial ingredients.
 
 0) Add the Chicken and Onion to a frying pan; fry until the chicken is browned and the onions are soft.
     > The onion and chicken may cook at different rates, once each is complete, you can move it to the pot separately.
 0) Add the garlic, coriander, cumin, turmeric, cinnamon, paprika, chilli powder, salt, and sugar to the pot, stirring well to combine.
 0) Add the ground almonds and desiccated coconut to the pot and stir well to coat the chicken and onions.
 0) Pour in the cream and bring to a gentle simmer, stirring occasionally.
-0) Reduce the heat and let the sauce simmer until the chicken is cooked through and the sauce has thickened.
+0) Simmer until the chicken is cooked through and the sauce has thickened.
 
 ## Notes
-The original recipe created by Chat GPT used slightly different ingredients. I made some changes for my tastes, to simplify the recipe, or to reduce food waste (e.g.: I couldn't buy a small enough pot of yoghurt).
+The original recipe created by Chat GPT used slightly different ingredients. I made some changes for my tastes, to simplify the recipe, or to reduce food waste (e.g. I couldn't buy a small enough pot of yoghurt).
 
 **Added**
 - Chicken Strips
