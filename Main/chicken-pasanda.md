@@ -4,7 +4,7 @@
 
 Serves|Cooking Time
 :-:|:-:
-6|4 0m
+6|40m
 
 ## Ingredients
 Item|Quantity

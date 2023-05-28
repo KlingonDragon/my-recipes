@@ -3,7 +3,7 @@
 
 Serves|Cooking Time
 :-:|:-:
-8|6h
+8|2h
 
 ## Ingredients
 Item|Quantity
@@ -12,7 +12,7 @@ Beef Mince¹|500g²
 Pork Mince¹|500g²
 Onions|2
 Celery|2 sticks
-Beef Oxo³|2 cubes
+Beef Oxo³|4 cubes
 Bovril⁴|2 tsp
 Tomato Puree|2"
 Garlic Puree|2"
@@ -32,15 +32,17 @@ Nutmeg|some
 After adding any new ingredient to the pot, stir thoroughly.
 
 0) Brown and break up the mince
-0) Boil a kettle and make the beef stock
+0) Boil a kettle and make the beef stock⁵
 0) Add the onion and celery while the kettle boils
 0) Once the onion is cooked, add the purees
-0) Add beef stock⁵ and Bovril
+0) Add beef stock⁶ and Bovril
 0) Add oregano and nutmeg
 0) Add the tinned tomatoes
 0) Simmer until thickened
 
-⁵ You could also add some beef gravy granules to the stock if you want it even beefier
+⁵ Alternatively, you can crumble the cubes directly into the pot instead of making stock. Make sure to add the water too.
+
+⁶You could also add some beef gravy granules to the stock if you want it even beefier
 
 ## Notes
 The sauce could take quite a while to thicken. Adding flour to the sauce before the stock can help; It will thicken faster, but the flavour may be affected.
