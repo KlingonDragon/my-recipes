@@ -39,10 +39,13 @@ After adding any new ingredient to the pot, stir thoroughly.
 0) Add oregano and nutmeg
 0) Add the tinned tomatoes
 0) Simmer until thickened
+0) Blend the sauce with a hand blender to break up chunks⁷
 
 ⁵ Alternatively, you can crumble the cubes directly into the pot instead of making stock. Make sure to add the water too.
 
-⁶You could also add some beef gravy granules to the stock if you want it even beefier
+⁶ You could also add some beef gravy granules to the stock if you want it even beefier
+
+⁷ This is entirely optional and most of my family think this is strange but I like a consistent sauce and I don't like big lumps of tomato
 
 ## Notes
 The sauce could take quite a while to thicken. Adding flour to the sauce before the stock can help; It will thicken faster, but the flavour may be affected.
