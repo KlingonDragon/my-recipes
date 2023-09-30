@@ -7,6 +7,7 @@ These Recipes come from various sources. Some have been adapted from the origina
 - [Leek & Bacon Spaghetti](Main/leek-and-bacon-spaghetti.md)
 - [Pea & Ham Soup](Main/pea-and-ham-soup.md)
 - [Sausage & Bacon Pie](Main/sausage-and-bacon-pie.md)
+- [Shepherd's Pie / Cottage Pie](Main/shepherd's-pie.md)
 - [Spaghetti Bolognese](Main/spaghetti-bolognese.md)
 
 ## Desserts
