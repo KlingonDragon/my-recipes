@@ -1,9 +1,9 @@
 # Shepherd's Pie / Cottage Pie
 **Source:** My Mum
 
-Serves|Cooking Time
-:-:|:-:
-4|1h
+Serves|Prep Time|Oven Time
+:-:|:-:|:-:
+4|30 mins|30 mins
 
 ## Ingredients
 Item|Quantity
@@ -12,7 +12,7 @@ Item|Quantity
 Mince (Beef or Lamb)|500g
 Onion|1
 Carrots|1 tin (sliced)¹
-Beef/Lamb Stock|¼ Pint
+Beef/Lamb Stock³|¼ Pint
 Bovril²|2 tsp
 **Mash**
 Potatoes|1kg
@@ -23,6 +23,8 @@ Milk|some
 ¹ You could use fresh carrots but the tinned carrots are softer and make a better pie filling.
 
 ² Bovril is a brand of meat extract paste.
+
+³ As well as the stock, I often add some gravy granules to give a slightly thicker pie filling
 
 ## Method
 0) Peel and cut potatoes.

@@ -12,11 +12,11 @@ Beef Mince¹|500g²
 Pork Mince¹|500g²
 Onions|2
 Celery|2 sticks
-Beef Oxo³|4 cubes
-Bovril⁴|2 tsp
+Beef Stock|½ pint
+Bovril³|2 tsp
 Tomato Puree|2"
 Garlic Puree|2"
-Chopped Tinned Tomatoes|2 Tins
+Chopped Tinned Tomatoes⁴|2 Tins
 Oregano|some
 Nutmeg|some
 
@@ -24,9 +24,9 @@ Nutmeg|some
 
 ² I use 500g of each mince as I can't buy 250g of pork mince at my local supermarket. If you can, it might make sense to half all the other ingredients and cook less.
 
-³ Oxo is a brand of stock cubes. One cube makes approx 200ml of stock.
+³ Bovril is a brand of meat extract paste.
 
-⁴ Bovril is a brand of meat extract paste.
+⁴ Alternatively, use passata.
 
 ## Method
 After adding any new ingredient to the pot, stir thoroughly.
