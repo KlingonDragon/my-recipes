@@ -11,7 +11,7 @@ These Recipes come from various sources. Some have been adapted from the origina
 - [Spaghetti Bolognese](Main/spaghetti-bolognese.md)
 
 ## Desserts
-- 
+- [Trifle](Dessert/Trifle.md)
 
 ## Notes
 Most of these recipes skip simple steps like chopping vegetables or cooking pasta. Please don't send me photos of whole onions in your dinner.
