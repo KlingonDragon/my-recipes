@@ -3,6 +3,7 @@ These Recipes come from various sources. Some have been adapted from the origina
 
 ## Mains
 - [Beef bourguignon](Main/beef-bourgigon.md)
+- [Caribbean Chicken](Main/caribbean-chicken.md)
 - [Chicken in White Wine and Cream Sauce](Main/chicken-in-wwc-sauce.md)
 - [Chicken Pasanda](Main/chicken-pasanda.md)
 - [Leek & Bacon Spaghetti](Main/leek-and-bacon-spaghetti.md)
@@ -16,6 +17,9 @@ These Recipes come from various sources. Some have been adapted from the origina
 
 ## Desserts
 - [Trifle](Dessert/Trifle.md)
+
+## Other
+- ['Curry' Powder](Other/curry-powder.md)
 
 ## Notes
 Most of these recipes skip simple steps like chopping vegetables or cooking pasta. Please don't send me photos of whole onions in your dinner.
