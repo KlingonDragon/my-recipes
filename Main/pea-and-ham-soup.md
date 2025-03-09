@@ -24,5 +24,5 @@ Pepper
 0) Bring to a boil and simmer for 30m
 0) Remove from heat and blend until smooth
 0) Add half the ham and blend until smooth
-0) Add remaining ham and Add salt and pepper to taste
+0) Add remaining ham then add salt and pepper to taste
 0) Bring to a boil and simmer for 10m
