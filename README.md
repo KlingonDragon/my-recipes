@@ -18,6 +18,9 @@ These Recipes come from various sources. Some have been adapted from the origina
 ## Desserts
 - [Trifle](Dessert/Trifle.md)
 
+## Drinks
+- [Simple Cocktails](Drinks/simple-cocktails.md)
+
 ## Other
 - ['Curry' Powder](Other/curry-powder.md)
 
