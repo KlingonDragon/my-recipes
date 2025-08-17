@@ -8,6 +8,7 @@ These Recipes come from various sources. Some have been adapted from the origina
 - [Chicken Pasanda](Main/chicken-pasanda.md)
 - [Leek & Bacon Spaghetti](Main/leek-and-bacon-spaghetti.md)
 - [Moroccan Lamb](Main/moroccan-lamb.md)
+- ["Nando's Chicken"](Main/nandos-chicken.md)
 - [Pea & Ham Soup](Main/pea-and-ham-soup.md)
 - [Salmon en Croûte](Main/salmon-en-croute.md)
 - [Sausage & Bacon Pie](Main/sausage-and-bacon-pie.md)
