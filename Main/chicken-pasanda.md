@@ -1,6 +1,6 @@
 # Chicken Pasanda
 **Source:** ChatGPT
-> Prompt: "write a creamy Pasanda recipe i can cook at home using supermarket ingredients using british terminology"
+> Prompt: "Write a creamy Pasanda recipe I can cook at home using supermarket ingredients using British terminology."
 
 Serves|Cooking Time
 :-:|:-:

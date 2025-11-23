@@ -7,8 +7,9 @@ These Recipes come from various sources. Some have been adapted from the origina
 - [Chicken in White Wine and Cream Sauce](Main/chicken-in-wwc-sauce.md)
 - [Chicken Pasanda](Main/chicken-pasanda.md)
 - [Leek & Bacon Spaghetti](Main/leek-and-bacon-spaghetti.md)
+- [Marinated Chicken](Main/marinated-chicken.md)
 - [Moroccan Lamb](Main/moroccan-lamb.md)
-- ["Nando's Chicken"](Main/nandos-chicken.md)
+- ~~["Nando's Chicken"](Main/marinated-chicken.md)~~
 - [Pea & Ham Soup](Main/pea-and-ham-soup.md)
 - [Salmon en Croûte](Main/salmon-en-croute.md)
 - [Sausage & Bacon Pie](Main/sausage-and-bacon-pie.md)
